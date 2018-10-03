@@ -1,0 +1,11 @@
+caraty gr1a4 26/11/17 14:20:02
+Il est indispensable de commenter les fichiers d'entete : seuls fichiers a consulter pour la reutilisation.
+
+caraty all 26/11/17 15:25:41
+Bon travail...
+
+caraty gr5a8 26/11/17 14:35:23
+Programmez sans nombres magiques (constantes litterales, par ex. 255, ".txt").
+
+caraty all 26/11/17 15:27:57
+Bon courage a tous... MJC
