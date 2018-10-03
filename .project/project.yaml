@@ -1,0 +1,8 @@
+name: "dut_a1_sda_messagerie"
+description: "Application de messagerie"
+topics: []
+homepage: ""
+source:
+  provider: gitlab
+  namespace: "sachahjkl"
+  path: "sachahjkl/dut_a1_sda_messagerie"
